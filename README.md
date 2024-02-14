@@ -1,2 +1,2 @@
-# .github
-Welcome To My Home Page ~
+# MyGO GUI Project
+A project aimed to develop MyGO GUI
